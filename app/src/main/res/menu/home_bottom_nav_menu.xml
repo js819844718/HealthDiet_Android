@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_index_home"
+        android:icon="@drawable/home_selector_bottom_index"
+        android:title="首页" />
+    <item
+        android:id="@+id/navigation_canyinxinxi_home"
+        android:icon="@drawable/home_selector_bottom_icon1"
+        android:title="餐饮信息"/>
+    <item
+        android:id="@+id/navigation_canyinyingyang_home"
+        android:icon="@drawable/home_selector_bottom_icon2"
+        android:title="餐饮营养"/>
+    <item
+        android:id="@+id/navigation_yingyangdengjibiaozhun_home"
+        android:icon="@drawable/home_selector_bottom_icon3"
+        android:title="营养等级标准"/>
+    <item
+        android:id="@+id/navigation_mine_home"
+        android:icon="@drawable/home_selector_bottom_mine"
+        android:title="我的" />
+</menu>

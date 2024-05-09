@@ -13,8 +13,8 @@ import com.union.union_basic.ext.drawableImg
 
 /**
  * classname：StateView
- * author：ZWQ
- * date: 2021/12/7 11:40
+ * author：zhangjiangshuai
+ * date: 2024-03-29
  * desc:情感图控件
  */
 class StateView : androidx.appcompat.widget.AppCompatTextView {

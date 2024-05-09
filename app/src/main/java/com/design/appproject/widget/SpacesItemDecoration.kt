@@ -8,8 +8,8 @@ import com.union.union_basic.ext.toConversion
 
 /**
  * classname：
- * author：ZWQ
- * date: 2021/12/23 13:11
+ * author：zhangjiangshuai
+ * date: 2024-03-29
  * desc:
  */
 class SpacesItemDecoration(val space: Int,val headerCount:Int=0) : RecyclerView.ItemDecoration() {

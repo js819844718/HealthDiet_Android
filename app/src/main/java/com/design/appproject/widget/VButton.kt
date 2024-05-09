@@ -25,8 +25,8 @@ import kotlin.concurrent.timerTask
 
 /**
  * classname：VButton
- * author：ZWQ
- * date: 2021/12/1 11:05
+ * author：zhangjiangshuai
+ * date: 2024-04-17
  * desc: 获取验证码的自定义button
  */
 class VButton : androidx.appcompat.widget.AppCompatButton {

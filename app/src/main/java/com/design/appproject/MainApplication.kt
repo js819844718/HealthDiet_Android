@@ -15,6 +15,8 @@ import okhttp3.Interceptor
 /***
  * 类名：com.design.appproject.MainApplication
  * 文件描述：主程序application
+ * @author zhangjiangshuai
+ * @date 2024-05-09
  */
 class MainApplication : MultiDexApplication() {
     companion object {

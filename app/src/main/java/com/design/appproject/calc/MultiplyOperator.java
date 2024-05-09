@@ -2,8 +2,8 @@ package com.design.appproject.calc;
 
 
 /**
- * @author shishuheng
- * @date 2020/1/21 2:32 下午
+ * @author zhangjiangshuai
+ * @date 2024-03/23
  */
 public class MultiplyOperator extends Operator {
     MultiplyOperator(Integer id, String value, Integer factor) {

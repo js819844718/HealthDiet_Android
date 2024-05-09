@@ -1,8 +1,8 @@
 package com.design.appproject.calc;
 
 /**
- * @author shishuheng
- * @date 2020/1/21 2:33 下午
+ * @author zhangjiangshuai
+ * @date 2024-03/21
  */
 public class DivideOperator extends Operator {
     DivideOperator(Integer id, String value, Integer factor) {

@@ -1,8 +1,8 @@
 package com.design.appproject.calc;
 
 /**
- * @author shishuheng
- * @date 2020/1/21 2:30 下午
+ * @author zhangjiangshuai
+ * @date 2024-04/26
  */
 public class SubtractOperator extends Operator {
     SubtractOperator(Integer id, String value, Integer factor) {

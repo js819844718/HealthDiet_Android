@@ -1,7 +1,7 @@
 package com.design.appproject.calc;
 /**
- * @author shishuheng
- * @date 2020/1/21 2:34 下午
+ * @author zhangjiangshuai
+ * @date 2024-03/22
  */
 public class LeftParenthesesOperator extends Operator {
     LeftParenthesesOperator(Integer id, String value, Integer factor) {

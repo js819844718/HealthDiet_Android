@@ -1,8 +1,8 @@
 package com.design.appproject.calc;
 
 /**
- * @author shishuheng
- * @date 2020/1/21 2:34 下午
+ * @author zhangjiangshuai
+ * @date 2024-04/02
  */
 public class RightParenthesesOperator extends Operator {
     RightParenthesesOperator(Integer id, String value, Integer factor) {

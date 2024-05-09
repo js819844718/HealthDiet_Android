@@ -1,8 +1,8 @@
 package com.design.appproject.calc;
 
 /**
- * @author shishuheng
- * @date 2020/1/20 9:35 上午
+ * @author zhangjiangshuai
+ * @date 2024-03/29
  */
 public abstract class Operator {
     private Integer id;

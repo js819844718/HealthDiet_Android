@@ -5,8 +5,8 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @author shishuheng
- * @date 2020/1/20 9:43 上午
+ * @author zhangjiangshuai
+ * @date 2024-04/21
  */
 public class OperatorFactory {
     public static final Integer ADD = 0;

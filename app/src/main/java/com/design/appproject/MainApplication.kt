@@ -35,13 +35,13 @@ class MainApplication : MultiDexApplication() {
         }
         AutoSizeConfig.getInstance().isExcludeFontScale = true //屏蔽系统字体大小对 AndroidAutoSize 的影响
 
-        val SERVICE_URL = "http://47.94.242.204:8080/cl76435205/"
+        //val SERVICE_URL = "http://47.94.242.204:8080/cl76435205/"
         /*
         *地址如果，后端在win上就是10.7.89.38 后端在aliyun上就是49.94.242.204
         * @auther zhangjiangshuai
         * @date 2024-05-08
         * */
-        //val SERVICE_URL = "http://10.7.89.38:8080/cl76435205/"
+        val SERVICE_URL = "http://10.7.89.38:8080/cl76435205/"
         UrlPrefix.URL_PREFIX = SERVICE_URL
         GlideLoader.setRequestOptions(R.color.common_bg_color_gray2,R.color.common_bg_color_gray2)
         val interceptors  = mutableListOf(
